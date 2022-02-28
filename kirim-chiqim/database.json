@@ -1,0 +1,61 @@
+[
+    {
+        "income": [
+            {
+                "incomeId": 1,
+                "incomePurpose": {
+                    "purposeId": 1,
+                    "type": "income",
+                    "purpose": "oylik"
+                },
+                "amount": 5000,
+                "incomeDate": "28.02.2022"
+            },
+            {
+                "incomeId": 2,
+                "incomePurpose": {
+                    "purposeId": 3,
+                    "type": "income",
+                    "purpose": "biznes"
+                },
+                "amount": 9000,
+                "incomeDate": "28.02.2022"
+            }
+        ],
+
+        "expanse": [
+            {
+                "expanseId": 1,
+                "expansePurpose": {
+                    "purposeId": 1,
+                    "type": "expanse",
+                    "purpose": "oylik"
+                },
+                "amount": 5000,
+                "expanseDate": "28.02.2022"
+            }
+        ],
+        "purposes": [
+            {
+                "purposeId": 1,
+                "purpose": "oylik"
+            },
+            {
+                "purposeId": 2,
+                "purpose": "biznes"
+            },
+            {
+                "purposeId": 3,
+                "purpose": "ijara"
+            },
+            {
+                "purposeId": 4,
+                "purpose": "bozor"
+            },
+            {
+                "purposeId": 5,
+                "purpose": "dehqonchilik"
+            }
+        ]
+    }
+]
